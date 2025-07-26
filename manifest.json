@@ -1990,6 +1990,9 @@
     }
   },
   "files": {
+    "about.md": {
+      "checksum": "075fc28eede06a69d4f9d4624beab85d"
+    },
     "app.R": {
       "checksum": "6885099ffc0a6315c3e7fa8f3c590291"
     },
