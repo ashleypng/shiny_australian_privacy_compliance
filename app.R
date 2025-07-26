@@ -17,6 +17,7 @@ library(readr)
 library(dplyr)
 library(tidyr)
 library(writexl)
+library(markdown)
 
 # Define sensitive field patterns and their related privacy principles
 sensitive_fields <- list()
